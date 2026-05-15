@@ -20,7 +20,7 @@
 
 | # | Project | Description | Tech Stack | Status |
 |---|---------|-------------|------------|--------|
-| 1 | 🎓 Student Performance Analysis | EDA & ML prediction on student dataset | Python, Pandas, Matplotlib | 🚧 In Progress |
+| 1 | 🎓 Student Performance Analysis | EDA & prediction on student dataset | Python, Pandas, Matplotlib | 🚧 In Progress |
 
 ---
 
