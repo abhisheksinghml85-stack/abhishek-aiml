@@ -42,6 +42,9 @@
 ---
 
 ## 📚 Currently Studying
+
+- 📖 Machine Learning Algorithms
+- 📖 Exploratory Data Analysis (EDA)
 - 📖 Mathematics for ML (Linear Algebra, Statistics)
 
 ---
