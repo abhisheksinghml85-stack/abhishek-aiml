@@ -26,9 +26,8 @@
 
 ## 📈 GitHub Stats
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheksinghml85-stack&show_icons=true&theme=tokyonight&hide_border=true)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheksinghml85-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksinghml85-stack&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 🎯 2026 Goals
